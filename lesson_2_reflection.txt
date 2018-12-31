@@ -13,6 +13,12 @@ What value do you think it offers?
 	 
 How can you use the staging area to make sure you have one commit per logical
 change?
+	
+	After making a major change in the files we can add them to staging area 
+	using git add and then check out using git status what files are added. 
+	And then when we commit only those files will be commited which are in staging.
+	Also we can check using git diff --staged to compare between staging area and
+	first commit in repository to compare the difference made before commiting.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
