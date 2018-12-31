@@ -1,0 +1,51 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+  	I would say that using diff i was clearly able to distinguish between
+  	the former and the later with the help of the -- and ++symbols that which 
+  	all particualr block of codes have been changed.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    With the help of entire history of file I would be easily able to retrive 
+    my previous codes which in future might be good to visit in in case of a 
+    bug so that I can start from the place where there was no issue.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+	
+	  Pros: We can manually commit a logical change which we feel are important 
+	  for future reference. Also we have full control of what we wanna change, 
+	  by writing out the lable of the commit and without figuring out later that 
+	  what it was.
+	  Cons: We have to manually take care of the commit. If we dont have the sence 
+	  when to commit, it can be less helpful.
+    
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Git allows multiple files to commit as the functionaliyt of git is to manage
+    codes, where scripts under different files may be inter-related whereas in 
+    other docs like google docs, it usually deals with text documents which are 
+    usually not inter realted.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    git log - we can find all the commits with theri ids made in the repository
+    with their labels.
+    git diff prev_commit later_commit - we can differentiate what lines were added
+    and what were deleted from the preious files in order to see the changes. 
+    added (green, +), deleted(red, -).
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    with the help of version control we get the fredomto make changes even when
+    it might break as at any number of time we can visit and start from our stable
+    version of commit.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I would like to try it out for my new coding project.
