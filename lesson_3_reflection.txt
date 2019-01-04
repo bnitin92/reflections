@@ -34,9 +34,15 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    I would use other sources of collabration platform and try to divide the 
+    code blocks into the skletion of my code and would compare it once done.
+    It would be easier in the sense of not using any complex version control 
+    but in terms of sharing and making changes and comparing it would be 
+    really really tough.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    Whenever we want to have a make an update to an existing code which requires 
+    to be checked first then we use a separate branch,  make the chages and 
+    allow others to have a look over before commiting it into the master branch.
